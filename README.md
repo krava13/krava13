@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+### My name's Denys. I'm front-end developer.
+
+**My technology stack:**
+* HTML/CSS
+* JavaScript
+* Vue
+
+📫 How to reach me: [Telegram](https://t.me/kravadev)
 
 <!--
 **krava13/krava13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
